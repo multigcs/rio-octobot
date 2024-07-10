@@ -3,7 +3,9 @@
  
 experimental - not tested yet
 
-![rio-octobot](./rio-octobot.png)
+![rio-octobot](rio-octobot.png)
+
+![rio-octobot](rio-octobot-proto.jpg)
 
 ## software / gateware
 https://github.com/multigcs/riocore
