@@ -372,7 +372,7 @@
     (property "Reference" "R1" (at 90.17 53.34 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 90.17 58.42 90)
+    (property "Value" "3k3" (at 90.17 58.42 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (at 90.17 57.658 90)
