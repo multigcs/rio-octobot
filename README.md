@@ -1,7 +1,7 @@
 # rio-octobot
 8Axis LinuxCNC-RIO main-board - for the iceWerx iCE40-HX8K FPGA-Devboard - kicad project 
  
-experimental - not tested yet
+experimental - not fully tested yet
 
 ![rio-octobot](rio-octobot.png)
 
